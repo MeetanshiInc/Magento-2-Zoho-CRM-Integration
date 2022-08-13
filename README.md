@@ -12,7 +12,7 @@ job and manual.
 Helps keeping track record of reports and stay connected with your potential customers using Zoho CRM Integration for Magento 2. 
 
 
-**Features of Magento 2 Zoho CRM Integration:**
+## Features of Magento 2 Zoho CRM Integration:
 
 * Facilitates easy automation of store data with Zoho CRM in your Magento 2 store.
 * Offers sandbox mode for testing.
@@ -26,4 +26,4 @@ Helps keeping track record of reports and stay connected with your potential cus
 * Backend grid to map Magento 2 taxes with Zoho, allows adding the taxes and then sync them with Zoho.
 * Option to add invoices, orders, contacts by the admin from the backend by “Add to Queue” mass action.
 
-For more information, visit [https://meetanshi.com/magento-2-zoho-crm-integration.html](https://meetanshi.com/magento-2-zoho-crm-integration.html)
+For more information, visit ***[https://meetanshi.com/magento-2-zoho-crm-integration.html](https://meetanshi.com/magento-2-zoho-crm-integration.html)***
